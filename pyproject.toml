@@ -90,7 +90,7 @@ pytest-mock = "^3.14.1"
 
 # Development tools
 pre-commit = "^4.2.0"
-black = "^25.1.0"
+black = ">=25.1,<27.0"
 isort = "^6.0.1"
 
 # Build tools
